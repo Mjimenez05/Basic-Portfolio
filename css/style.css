@@ -1,26 +1,36 @@
 header {
-    border: solid #cccccc;
+    border: solid #ca0b0b;
     background-color: #ffffff;
-    height: 25px;
+}
+
+#pic {
+    height: 200px;
+    width: 250px;
 }
 
 .nav-bar {
+    float: absolute;
     text-align: right;
 }
 
-h1 {
+#name {
     font-family: 'Times New Roman', Times, serif;
-    width: 30%;
+    width: 20%;
+    background-color: teal;
+}
+
+#about-me {
+    font-family: 'Times New Roman', Times, serif;
+    width: 10%;
     background-color: teal;
 }
 
 p {
-    display: inline-block;
+    text-align: ;
 }
 
 body {
     border: solid #dddddd;
-    background-image: url("/images/email-pattern.png") max-width: 960px;
 }
 
 footer {
