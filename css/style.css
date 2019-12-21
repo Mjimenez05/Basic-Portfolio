@@ -9,8 +9,8 @@ header {
 }
 
 .nav-bar {
-    float: absolute;
-    text-align: right;
+    float: right;
+    clear: both;
 }
 
 #name {
@@ -26,7 +26,7 @@ header {
 }
 
 p {
-    text-align: ;
+    display: inline-block;
 }
 
 body {
