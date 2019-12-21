@@ -1,0 +1,29 @@
+header {
+    border: solid #cccccc;
+    background-color: #ffffff;
+    height: 25px;
+}
+
+.nav-bar {
+    text-align: right;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 30%;
+    background-color: teal;
+}
+
+p {
+    display: inline-block;
+}
+
+body {
+    border: solid #dddddd;
+    background-image: url("/images/email-pattern.png") max-width: 960px;
+}
+
+footer {
+    border: solid;
+    margin: 10px;
+}
